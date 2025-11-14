@@ -18,7 +18,10 @@ lk
 
 //mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-IMPLEMENT_DYNCREATE(CDebDoc, CDocument)
+?? alignas mod1dddddd
+
+
+
 
 BEGIN_MESSAGE_MAP(CDebDoc, CDocument)
 	ON_COMMAND(ID_FILE_REREAD, &CDebDoc::OnFileReread)

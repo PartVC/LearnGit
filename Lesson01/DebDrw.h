@@ -29,11 +29,3 @@ public:
 };
 
 extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
-extern CDebApp theApp;
