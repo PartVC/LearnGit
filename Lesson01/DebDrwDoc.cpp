@@ -13,7 +13,10 @@
 #endif
 
 
-// CDebDoc
+// CDebDocnmnmmb
+lk
+
+//mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
 IMPLEMENT_DYNCREATE(CDebDoc, CDocument)
 
@@ -137,7 +140,7 @@ void CDebDoc::ReadFromFile(LPCTSTR lpszPathName)
 	{
 	uiErr = oFile.Read(&ui, sizeof(INT_PTR));	// code
 	if (uiErr <= 0) break;
-	if (ui == 1)	// контур
+	if (ui == 1)	// пїЅпїЅпїЅпїЅпїЅпїЅ
 	{
 		oFile.Read(&iCount, sizeof(INT_PTR));
 
