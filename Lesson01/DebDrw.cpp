@@ -17,7 +17,6 @@
 #define new DEBUG_NEW
 #endif
 
-
 // CDebApp
 
 BEGIN_MESSAGE_MAP(CDebApp, CWinApp)
