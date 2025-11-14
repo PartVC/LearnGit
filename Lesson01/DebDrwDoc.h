@@ -1,7 +1,7 @@
 // DebDrwDoc.h : interface of the CDebDoc class
 //
 
-
+// jhgjgjhgjhgjhgjhgjhhgjgjg
 #pragma once
 struct Pointd
 {
